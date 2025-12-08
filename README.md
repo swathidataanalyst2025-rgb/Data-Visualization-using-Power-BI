@@ -1,2 +1,2 @@
-# Data-Visualization-using-Power-BI
+# DataVisualization-DashBoard-using-Power-BI
 This repository uses Dax Queries and power BI for visualization
